@@ -33,5 +33,5 @@ GrupsPMT.m  : codi Matlab a executar
 * Canviar el noms dels fitxers: "HistoricCoincidencies.dat" -> "HistoricCoincidenciesOLD.dat" ; "HistoricCoincidenciesOUT.dat" -> "HistoricCoincidencies.dat"
 
 
-AUTHOR: Luis Alonso
+AUTOR: Luis Alonso
 Comité dels AVIS LLIGAPMT
